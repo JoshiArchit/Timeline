@@ -7,4 +7,4 @@
 - Tailwind
     - Configure tailwind (v4.0) : https://tailwindcss.com/docs/installation/using-vite
     `npm install tailwindcss @tailwindcss/vite`
-    -
+    - Cheatsheet - https://www.creative-tim.com/twcomponents/cheatsheet
